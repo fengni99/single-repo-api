@@ -7,7 +7,6 @@
   		<artifactId>darchrow</artifactId>
 		<version>1.0</version>
   </parent>
-
   <artifactId>single-repo-api</artifactId>
 
   <name>single-repo-api</name>
